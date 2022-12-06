@@ -6,7 +6,7 @@ In addition to the inclusion of dependencies, some development dependencies were
 
 You likely have to `npm install --global yarn` as well.
 
-Note: This repository includes the [postman collection for the finished API](cards and decks collection.postman_collection.json) for the finished API.
+Note: This repository includes the postman collection for the finished API.([cards and decks collection.postman_collection.json](https://github.com/xgguler/card-and-deck-application/blob/main/cards%20and%20decks%20collection.postman_collection.json)) for the finished API.
 
 ## What you will need
 * A running instance of MongoDB on your local Docker environment
