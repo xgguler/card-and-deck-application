@@ -2,11 +2,11 @@
 
 A sample card and deck application to provide basic CRUD operations and build a REST API with Node.js, TypeScript, Mongoose and Docker.
 
-In addition to the inclusion of dependencies, some development dependencies were added to `NOTES.md` file which are require for execution.
+In addition to the inclusion of dependencies, some development dependencies were added to [NOTES.md](NOTES.md) file which are required for execution.
 
 You likely have to `npm install --global yarn` as well.
 
-Note: This repository includes the postman collection for the finished API.
+Note: This repository includes the [postman collection for the finished API](cards and decks collection.postman_collection.json) for the finished API.
 
 ## What you will need
 * A running instance of MongoDB on your local Docker environment
